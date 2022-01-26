@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #28282c;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -38,6 +38,6 @@
 }
 
 .App-title {
-  font-family: "Retro Gaming";
+  font-family: Retro Gaming;
   font-size: 44px;
 }

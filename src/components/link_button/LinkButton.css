@@ -1,0 +1,9 @@
+.LinkButton-text {
+  font-family: Retro Gaming;
+  font-size: 22px;
+  color: white;
+}
+
+.click:hover {
+  transform: scale(1.1);
+}
