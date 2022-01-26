@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.e0e6af57.css",
-    "main.js": "/static/js/main.3d6b735b.js",
+    "main.js": "/static/js/main.6661cbe5.js",
     "static/js/787.daa39dd1.chunk.js": "/static/js/787.daa39dd1.chunk.js",
     "static/media/Retro Gaming.ttf": "/static/media/Retro Gaming.c1a52a602585b2d6baf8.ttf",
+    "static/media/Reddit_white.svg": "/static/media/Reddit_white.27aed02a1c4274d752430b3a6dec1c02.svg",
+    "static/media/Instagram_white.svg": "/static/media/Instagram_white.014895444d67a88ece3e5069f3f99c3b.svg",
+    "static/media/Github_white.svg": "/static/media/Github_white.75b19611eff02964ac2771126c0ff9cd.svg",
+    "static/media/Twitter_white.svg": "/static/media/Twitter_white.471cd084aa3d91c14296e11585bf4024.svg",
+    "static/media/Youtube_white.svg": "/static/media/Youtube_white.7eeee707e13ed4a6da5a48df4550bf32.svg",
     "index.html": "/index.html",
+    "static/media/Twitch_white.svg": "/static/media/Twitch_white.9e6a371aa2415eea7eb407b91d016123.svg",
+    "static/media/Facebook_white.svg": "/static/media/Facebook_white.98dac7625fed478ca9f2a302e26f12e0.svg",
     "main.e0e6af57.css.map": "/static/css/main.e0e6af57.css.map",
-    "main.3d6b735b.js.map": "/static/js/main.3d6b735b.js.map",
+    "main.6661cbe5.js.map": "/static/js/main.6661cbe5.js.map",
     "787.daa39dd1.chunk.js.map": "/static/js/787.daa39dd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e6af57.css",
-    "static/js/main.3d6b735b.js"
+    "static/js/main.6661cbe5.js"
   ]
 }
