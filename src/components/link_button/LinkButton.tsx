@@ -1,3 +1,4 @@
+import { Grid } from "@mui/material";
 import React from "react";
 import './LinkButton.css'
 
@@ -28,7 +29,17 @@ const LinkButton: React.FC<Props> = ({
       className="click"
     >
       <div className="LinkButton-text">
-        {children}
+        <Grid container
+          direction="row"
+        >
+          <Grid item xs={2} />
+          <Grid item xs={2}>
+            <img src={image} alt="" height="20px" />
+          </Grid>
+          <Grid item>
+            {children}
+          </Grid>
+        </Grid>
       </div>
     </button>
   );
