@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import LinkButton from "./components/link_button/LinkButton";
-import { Facebook, Github, Instagram, Reddit, Twitch, Twitter, Youtube } from "./helpers/icons/IconsSvgWhite";
+import { Facebook, Github, Instagram, Reddit, Twitch, Twitter, Youtube } from "./helpers/icons/IconsPngWhite";
 
 function App() {
   return (
