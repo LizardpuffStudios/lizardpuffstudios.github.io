@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1728be87.css",
-    "main.js": "/static/js/main.fb82529b.js",
+    "main.js": "/static/js/main.5422a2b5.js",
     "static/js/787.daa39dd1.chunk.js": "/static/js/787.daa39dd1.chunk.js",
     "static/media/lizard.png": "/static/media/lizard.8cad6f026fd1089c66ea.png",
     "static/media/Retro Gaming.ttf": "/static/media/Retro Gaming.c1a52a602585b2d6baf8.ttf",
@@ -21,11 +21,11 @@
     "static/media/Twitch_white.svg": "/static/media/Twitch_white.9e6a371aa2415eea7eb407b91d016123.svg",
     "static/media/Facebook_white.svg": "/static/media/Facebook_white.98dac7625fed478ca9f2a302e26f12e0.svg",
     "main.1728be87.css.map": "/static/css/main.1728be87.css.map",
-    "main.fb82529b.js.map": "/static/js/main.fb82529b.js.map",
+    "main.5422a2b5.js.map": "/static/js/main.5422a2b5.js.map",
     "787.daa39dd1.chunk.js.map": "/static/js/787.daa39dd1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1728be87.css",
-    "static/js/main.fb82529b.js"
+    "static/js/main.5422a2b5.js"
   ]
 }
