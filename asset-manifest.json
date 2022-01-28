@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.260961fb.css",
-    "main.js": "/static/js/main.d436c8d7.js",
+    "main.css": "/static/css/main.1728be87.css",
+    "main.js": "/static/js/main.fb82529b.js",
     "static/js/787.daa39dd1.chunk.js": "/static/js/787.daa39dd1.chunk.js",
     "static/media/lizard.png": "/static/media/lizard.8cad6f026fd1089c66ea.png",
     "static/media/Retro Gaming.ttf": "/static/media/Retro Gaming.c1a52a602585b2d6baf8.ttf",
@@ -13,19 +13,19 @@
     "static/media/Twitter_white.svg": "/static/media/Twitter_white.471cd084aa3d91c14296e11585bf4024.svg",
     "static/media/Twitter.svg": "/static/media/Twitter.6881f6c4b5984e97f6f5bf2216812403.svg",
     "static/media/Github.svg": "/static/media/Github.4f8de7c56ebff41e0c235675143f6e45.svg",
+    "index.html": "/index.html",
     "static/media/Youtube_white.svg": "/static/media/Youtube_white.7eeee707e13ed4a6da5a48df4550bf32.svg",
     "static/media/Youtube.svg": "/static/media/Youtube.2ff1b458e2f403e7dc3bbc3f18e29657.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.ad09d799c2dae3c45fea2c3ded47605a.svg",
-    "index.html": "/index.html",
     "static/media/Twitch.svg": "/static/media/Twitch.582ccaf9e16485a06f821a56a9fe0d47.svg",
     "static/media/Twitch_white.svg": "/static/media/Twitch_white.9e6a371aa2415eea7eb407b91d016123.svg",
     "static/media/Facebook_white.svg": "/static/media/Facebook_white.98dac7625fed478ca9f2a302e26f12e0.svg",
-    "main.260961fb.css.map": "/static/css/main.260961fb.css.map",
-    "main.d436c8d7.js.map": "/static/js/main.d436c8d7.js.map",
+    "main.1728be87.css.map": "/static/css/main.1728be87.css.map",
+    "main.fb82529b.js.map": "/static/js/main.fb82529b.js.map",
     "787.daa39dd1.chunk.js.map": "/static/js/787.daa39dd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.260961fb.css",
-    "static/js/main.d436c8d7.js"
+    "static/css/main.1728be87.css",
+    "static/js/main.fb82529b.js"
   ]
 }
