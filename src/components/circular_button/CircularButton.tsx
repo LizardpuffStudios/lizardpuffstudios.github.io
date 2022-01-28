@@ -31,7 +31,7 @@ const CircularButton: React.FC<Props> = ({
       onMouseEnter={() => setImg(hoverImage)}
       onMouseLeave={() => setImg(image)}
     >
-      <img src={img} alt="" height="50px" />
+      <img src={img} alt="" height="50px" width="50px" />
     </button>
   );
 }
