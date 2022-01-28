@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="App-title">Lizardpuff Studios</div>
       <div className='App-body'>
-        <img src={Lizard} alt='Lizardpuff Studios' height="400px" width="auto" />
+        <img src={Lizard} alt='Lizardpuff Studios' height="400px" width="650px" />
         <p>Work in progress...</p>
         <p>More stuff</p>
       </div>
